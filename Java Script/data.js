@@ -1,6 +1,6 @@
 const items =[
     {   id:'001',
-        item_image:'image/1.jpeg',
+        item_image:'../image/1.jpeg',
         rating:{
             stars:4.5,
             reviews:1600,
